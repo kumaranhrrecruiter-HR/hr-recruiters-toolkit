@@ -2,9 +2,13 @@ Rate each category from 1 to 5 using the rubric below.
 
 Category	Score
 Job-specific technical skills	/5
+
 Relevant experience	/5
+
 Problem-solving	/5
+
 Communication relevant to the role	/5
+
 Examples of role-related achievements	/5
 
 Add sections for evidence, strengths, areas to clarify, interviewer recommendation, and final decision.
