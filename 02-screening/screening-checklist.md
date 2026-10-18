@@ -1,3 +1,5 @@
+Include these fields:
+
 - Job title and requisition ID
 - Required skills and relevant experience
 - Relevant project or domain experience
