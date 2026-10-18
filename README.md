@@ -22,12 +22,12 @@ The examples use a fictional cybersecurity company and fictional job requirement
 
 | Document | Purpose |
 |---|---|
-| https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/01-recruitment-sop/recruitment-sop.md | Standard hiring workflow |
-| https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/02-screening/screening-checklist.md | Consistent initial candidate assessment |
-| https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/02-screening/screening-call-script.md | Structured recruiter phone calls |
-| https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/03-interviews/interview-scorecard.md | Evidence-based interview evaluation |
-| https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/04-communication/candidate-email-templates.md | Candidate communication |
-| https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/05-onboarding/onboarding-checklist.md | New employee joining preparation |
+| Recruitment SOP https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/01-recruitment-sop/recruitment-sop.md | Standard hiring workflow |
+| Screening Checklist https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/02-screening/screening-checklist.md | Consistent initial candidate assessment |
+| Screening Call Script https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/02-screening/screening-call-script.md | Structured recruiter phone calls |
+| Interview Scorecard https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/03-interviews/interview-scorecard.md | Evidence-based interview evaluation |
+| Email Templates https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/04-communication/candidate-email-templates.md | Candidate communication |
+| Onboarding Checklist https://github.com/kumaranhrrecruiter-HR/hr-recruiters-toolkit/blob/main/05-onboarding/onboarding-checklist.md | New employee joining preparation |
 
 ## Recruitment Workflow
 
